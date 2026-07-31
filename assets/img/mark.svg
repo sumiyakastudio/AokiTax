@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52" width="52" height="52" role="img" aria-label="青木税理士事務所 シンボルマーク">
+  <rect x="1" y="1" width="50" height="50" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+  <line x1="26" y1="9" x2="26" y2="43" stroke="#FFFFFF" stroke-width="1"/>
+  <line x1="12" y1="20" x2="40" y2="20" stroke="#D4B366" stroke-width="1.6"/>
+  <line x1="12" y1="30" x2="40" y2="30" stroke="#D4B366" stroke-width="1.6"/>
+  <line x1="17" y1="38" x2="35" y2="38" stroke="#FFFFFF" stroke-width="1" opacity=".55"/>
+</svg>
